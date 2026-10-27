@@ -9,6 +9,8 @@ sites:
     url: https://skripsi.rayfa.my.id
   - name: Scribd Viewer
     url: https://scribdku.vercel.app
+  - name: Gdrive Downloader
+    url: https://ray123fa.github.io/gdrive-downloader/
 
 status-website:
   publish: true
